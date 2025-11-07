@@ -53,16 +53,16 @@ Check out my repositories to explore more of my data analytics work!
 
 ---
 
-## 📫 Connect With Me  
-<p align="left">
-  <a href="www.linkedin.com/in/telugu-archana-582a85291" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn"/>
+## 🤝 Connect With Me  
+<p align="center">
+  <a href="www.linkedin.com/in/telugu-archana-582a85291" target="_blank" style="margin-right: 20px;">
+    <img src="https://img.icons8.com/fluency/64/000000/linkedin.png" alt="LinkedIn" width="50"/>
   </a>
-  <a href="https://github.com/Telugu-Archana" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub"/>
+  <a href="https://github.com/Telugu-Archana" target="_blank" style="margin-right: 20px;">
+    <img src="https://img.icons8.com/fluency/64/000000/github.png" alt="GitHub" width="50"/>
   </a>
   <a href="mailto:teluguarchana0@email.com" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Email"/>
+    <img src="https://img.icons8.com/fluency/64/000000/gmail-new.png" alt="Email" width="50"/>
   </a>
 </p>
 
