@@ -60,8 +60,8 @@ Check out my repositories to explore more of my data analytics work!
 ---
 
 ## 📫 Connect With Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin-id/)  
-- 📧 Email: yourname@email.com  
+- 💼 [LinkedIn](www.linkedin.com/in/telugu-archana-582a85291)  
+- 📧 Email: archut119@email.com  
 - 🐙 [GitHub](https://github.com/your-github-username)
 
 ---
