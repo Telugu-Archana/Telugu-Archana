@@ -34,12 +34,6 @@ I believe in continuous learning and enjoy working with data-driven technologies
 - **SQL** for data querying and database management  
 - **Jupyter Notebook** for exploratory data analysis  
 
-### 🧠 Additional Skills  
-- **Statistical Analysis**  
-- **Critical Thinking & Problem Solving**  
-- **Storytelling with Data**  
-- **Time Management & Collaboration**
-
 ---
 
 ## 📈 Projects  
