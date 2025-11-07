@@ -34,7 +34,7 @@ I believe in continuous learning and enjoy working with data-driven technologies
 
 ---
 
-## 📈 Selected Projects  
+## 📈 Projects  
 
 ### 🖼️ [Enhancement of Visualization of Greyscale Image](https://github.com/Telugu-Archana/Enhancement-of-visualization-of-greyscale-image)  
 **Tools Used:** Python  
