@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there, I'm [Your Name]! 👋  
+# Hi there, I'm Telugu Archana! 👋  
 
 ## 👨‍💻 About Me  
 I’m a passionate **Data Analytics enthusiast** with a strong interest in transforming raw data into meaningful insights.  
