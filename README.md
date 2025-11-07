@@ -34,6 +34,20 @@ I believe in continuous learning and enjoy working with data-driven technologies
 
 ---
 
+## 📈 Selected Projects  
+
+### 🖼️ [Enhancement of Visualization of Greyscale Image](https://github.com/Telugu-Archana/Enhancement-of-visualization-of-greyscale-image)  
+**Tools Used:** Python  
+- Developed a program to enhance and visualise greyscale images using image processing techniques.  
+- Applied filters and transformations to highlight features and improve visual clarity.
+
+### 🎯 [College Technical Event Club Web App](https://github.com/Telugu-Archana/College-Technical-Event-Club)  
+**Tools Used:** HTML, CSS, PHP, MySQL  
+- Built a web application for managing college technical‐events: registrations, galleries, admin panel, user profiles.  
+- Implemented front-end interfaces and backend logic for event creation, updates and user management.
+
+---
+
 ## 🤝 Connect With Me  
   <a href="www.linkedin.com/in/telugu-archana-582a85291" target="_blank" style="margin-right: 20px;">
     <img src="https://img.icons8.com/fluency/64/000000/linkedin.png" alt="LinkedIn" width="50"/>
