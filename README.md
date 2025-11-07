@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi there, I'm Telugu Archana! 👋  
-
-## 👨‍💻 About Me  
 I’m a passionate **Data Analytics enthusiast** with a strong interest in transforming raw data into meaningful insights.  
 I enjoy exploring data, visualizing trends, and applying analytical techniques to solve real-world problems.  
 
