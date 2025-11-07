@@ -54,9 +54,17 @@ Check out my repositories to explore more of my data analytics work!
 ---
 
 ## 📫 Connect With Me  
-- 💼 [LinkedIn](www.linkedin.com/in/telugu-archana-582a85291)  
-- 📧 Email: archut119@email.com  
-- 🐙 [GitHub](https://github.com/Telugu-Archana)
+<p align="left">
+  <a href="www.linkedin.com/in/telugu-archana-582a85291" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Telugu-Archana" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub"/>
+  </a>
+  <a href="mailto:teluguarchana0@email.com" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Email"/>
+  </a>
+</p>
 
 ---
 
