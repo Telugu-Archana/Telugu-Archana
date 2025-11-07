@@ -34,23 +34,6 @@ I believe in continuous learning and enjoy working with data-driven technologies
 
 ---
 
-## 📈 Projects  
-Here are a few of my featured projects:  
-- 🧾 **Sales Data Analysis Dashboard** – Created interactive dashboards using Power BI to track business performance.  
-- 📉 **Customer Churn Analysis** – Used Python and visualization techniques to identify churn factors.  
-- 📊 **COVID-19 Data Insights** – Analyzed global COVID trends using Pandas and Matplotlib.
-
-Check out my repositories to explore more of my data analytics work!
-
----
-
-## 🌱 Currently Learning  
-- Advanced **Power BI** and **Tableau** techniques  
-- **Machine Learning for Data Analytics**  
-- **SQL Optimization & Query Performance**
-
----
-
 ## 🤝 Connect With Me  
   <a href="www.linkedin.com/in/telugu-archana-582a85291" target="_blank" style="margin-right: 20px;">
     <img src="https://img.icons8.com/fluency/64/000000/linkedin.png" alt="LinkedIn" width="50"/>
