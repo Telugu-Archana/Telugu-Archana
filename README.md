@@ -52,7 +52,6 @@ Check out my repositories to explore more of my data analytics work!
 ---
 
 ## 🤝 Connect With Me  
-<p align="center">
   <a href="www.linkedin.com/in/telugu-archana-582a85291" target="_blank" style="margin-right: 20px;">
     <img src="https://img.icons8.com/fluency/64/000000/linkedin.png" alt="LinkedIn" width="50"/>
   </a>
@@ -62,7 +61,6 @@ Check out my repositories to explore more of my data analytics work!
   <a href="mailto:teluguarchana0@email.com" target="_blank">
     <img src="https://img.icons8.com/fluency/64/000000/gmail-new.png" alt="Email" width="50"/>
   </a>
-</p>
 
 ---
 
