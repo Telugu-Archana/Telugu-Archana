@@ -76,7 +76,7 @@
   <a href="https://github.com/Telugu-Archana" target="_blank" style="margin-right: 20px;">
     <img src="https://img.icons8.com/fluency/64/000000/github.png" width="50"/>
   </a>
-  <a href="archut119@gmail.com" target="_blank">
+  <a href="mailto:archut119@gmail.com" target="_blank">
     <img src="https://img.icons8.com/fluency/64/000000/gmail-new.png" width="50"/>
   </a>
 </p>
