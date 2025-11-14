@@ -77,4 +77,10 @@
     <img src="https://img.icons8.com/fluency/64/000000/github.png" width="50"/>
   </a>
   <a href="mailto:your-email@gmail.com" target="_blank">
-    <img src="https://im
+    <img src="https://img.icons8.com/fluency/64/000000/gmail-new.png" width="50"/>
+  </a>
+</p>
+
+---
+
+<h3 align="center">⭐ “Data is a story — I just help reveal it.” ⭐</h3>
