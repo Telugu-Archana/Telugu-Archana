@@ -1,64 +1,80 @@
+<h1 align="center">Hi 👋, I'm Archana</h1>
+<h3 align="center">A Passionate Data Analytics Enthusiast & Developer</h3>
 
-<!--
-**Telugu-Archana/Telugu-Archana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hi there, I'm Telugu Archana! 👋  
-I’m a passionate **Data Analytics enthusiast** with a strong interest in transforming raw data into meaningful insights.  
-I enjoy exploring data, visualizing trends, and applying analytical techniques to solve real-world problems.  
-
-I believe in continuous learning and enjoy working with data-driven technologies to uncover patterns and support decision-making.  
+## 👩‍💻 About Me  
+- 🔍 I love exploring data and turning it into meaningful insights  
+- 📊 Skilled in **Data Analytics, Python, Excel, Power BI, Visualization**  
+- 🤖 Experience with **Machine Learning & Image Processing**  
+- 🧠 Always learning and growing in the world of tech  
+- 📬 How to reach me: *email here*
 
 ---
 
 ## 🧩 Skills & Tools  
-### 📊 Data Analytics & Visualization  
-- **Excel**, **Power BI**, **Tableau**, **Google Data Studio**  
-- **Data Cleaning**, **Data Transformation**, **Data Visualization**  
-- **Descriptive & Diagnostic Analytics**
 
-### 🧮 Programming & Libraries  
-- **Python (NumPy, Pandas, Matplotlib, Seaborn)**  
-- **SQL** for data querying and database management  
-- **Jupyter Notebook** for exploratory data analysis  
+<h3 align="left">📊 Data Analytics & Visualization</h3>
+
+- Excel • Power BI • Tableau  
+- Data Cleaning • Transformation  
+- Data Visualization • EDA  
+- Descriptive & Diagnostic Analytics  
+
+<h3 align="left">🧮 Programming & Libraries</h3>
+
+- Python (Pandas, NumPy, Matplotlib, Seaborn)  
+- SQL • Jupyter Notebook  
+- Machine Learning Basics  
+
+<h3 align="left">🛠️ Other Tools</h3>
+
+- Git • GitHub  
+- VS Code  
+- Communication & Presentation Skills  
 
 ---
 
-## 📈 Projects  
+## 📚 Featured Projects  
 
 ### 🖼️ [Enhancement of Visualization of Greyscale Image](https://github.com/Telugu-Archana/Enhancement-of-visualization-of-greyscale-image)  
-**Tools Used:** Python  
-- Developed a program to enhance and visualise greyscale images using image processing techniques.  
-- Applied filters and transformations to highlight features and improve visual clarity.
+- Improved grayscale image visibility using enhancement techniques  
+- Applied contrast stretching, histogram methods & image processing  
+- Showcased results with step-by-step implementation  
 
-### 🎯 [College Technical Event Club Web App](https://github.com/Telugu-Archana/College-Technical-Event-Club)  
-**Tools Used:** HTML, CSS, PHP, MySQL  
-- Built a web application for managing college technical‐events: registrations, galleries, admin panel, user profiles.  
-- Implemented front-end interfaces and backend logic for event creation, updates and user management.
+### 🎉 [College Technical Event Club](https://github.com/Telugu-Archana/College-Technical-Event-Club)  
+- Built a digital system for managing technical club events  
+- Organized event data and improved workflow visibility  
+- Demonstrated development + real-world problem solving  
+
+---
+
+## 📊 GitHub Stats  
+
+<div align="center">
+
+<img 
+    src="https://github-readme-stats.vercel.app/api?username=Telugu-Archana&show_icons=true&theme=radical&hide_border=false&border_radius=15" 
+    height="180"
+/>
+
+<img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Telugu-Archana&layout=compact&theme=radical&hide_border=false&border_radius=15" 
+    height="180"
+/>
+
+</div>
 
 ---
 
 ## 🤝 Connect With Me  
-  <a href="www.linkedin.com/in/telugu-archana-582a85291" target="_blank" style="margin-right: 20px;">
-    <img src="https://img.icons8.com/fluency/64/000000/linkedin.png" alt="LinkedIn" width="50"/>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin-id/" target="_blank" style="margin-right: 20px;">
+    <img src="https://img.icons8.com/fluency/64/000000/linkedin.png" width="50"/>
   </a>
   <a href="https://github.com/Telugu-Archana" target="_blank" style="margin-right: 20px;">
-    <img src="https://img.icons8.com/fluency/64/000000/github.png" alt="GitHub" width="50"/>
+    <img src="https://img.icons8.com/fluency/64/000000/github.png" width="50"/>
   </a>
-  <a href="mailto:teluguarchana0@email.com" target="_blank">
-    <img src="https://img.icons8.com/fluency/64/000000/gmail-new.png" alt="Email" width="50"/>
-  </a>
-
----
-
-⭐️ *“Data is a story waiting to be told — I just help it find its voice.”*  
+  <a href="mailto:your-email@gmail.com" target="_blank">
+    <img src="https://im
