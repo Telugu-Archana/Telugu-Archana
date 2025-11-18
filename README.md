@@ -1,6 +1,8 @@
+<h1 align="center">Hi 👋, I'm Archana</h1> <h3 align="center">A Passionate Data Analytics Enthusiast & Developer</h3>
+
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&color=FF4DD6&center=true&vCenter=true&width=600&height=60&lines=Hi+I'm+Archana+👋;Data+Analytics+Enthusiast;Passionate+Developer;Always+Learning+New+Things">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&color=FF4DD6&center=true&vCenter=true&width=600&height=60&lines=Software+Developer;Data+Analytics+Enthusiast;Passionate+Developer;Always+Learning+New+Things">
 </p>
 
 ---
