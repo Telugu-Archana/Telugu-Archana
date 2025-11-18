@@ -2,7 +2,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&color=FF4DD6&center=true&vCenter=true&width=600&height=60&lines=Software+Developer;Data+Analytics+Enthusiast;Passionate+Developer;Always+Learning+New+Things">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&color=FF4DD6&center=true&vCenter=true&width=600&height=60&lines=Data+Analytics+Enthusiast;Passionate+Developer;Continuous+Learner;">
 </p>
 
 ---
