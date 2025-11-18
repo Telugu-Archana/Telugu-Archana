@@ -2,7 +2,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&color=FF4DD6&center=true&vCenter=true&width=600&height=60&lines=Data+Analytics+Enthusiast;Passionate+Developer;Continuous+Learner;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&color=FF4DD6&center=true&vCenter=true&width=600&height=60&lines=Data+Analytics+Enthusiast;Data+Driven+Thinker;Passionate+Developer;Continuous+Learner;">
 </p>
 
 ---
@@ -13,7 +13,6 @@
 📊 Skilled in **Data Analytics, Python, Excel, Power BI, Visualization**  
 🧠 Experienced in **Machine Learning & Image Processing**  
 🚀 Love exploring datasets and building insights  
-📩 Reach me at: **archut119@gmail.com**
 
 ---
 
