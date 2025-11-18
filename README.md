@@ -1,65 +1,72 @@
-<h1 align="center">Hi 👋, I'm Archana</h1>
-<h3 align="center">A Passionate Data Analytics Enthusiast & Developer</h3>
+<!-- Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&color=FF4DD6&center=true&vCenter=true&width=600&height=60&lines=Hi+I'm+Archana+👋;Data+Analytics+Enthusiast;Passionate+Developer;Always+Learning+New+Things">
+</p>
 
 ---
 
-## 👩‍💻 About Me  
-- 🔍 I love exploring data and turning it into meaningful insights  
-- 📊 Skilled in **Data Analytics, Python, Excel, Power BI, Visualization**  
-- 🤖 Experience with **Machine Learning & Image Processing**  
-- 🧠 Always learning and growing in the world of tech  
-- 📬 How to reach me: *email here*
+## 🌈 **About Me**
+
+🎯 Passionate about transforming data into meaningful stories  
+📊 Skilled in **Data Analytics, Python, Excel, Power BI, Visualization**  
+🧠 Experienced in **Machine Learning & Image Processing**  
+🚀 Love exploring datasets and building insights  
+📩 Reach me at: **archut119@gmail.com**
 
 ---
 
-## 🧩 Skills & Tools  
+## 🛠️ **Skills & Tools**
 
-<h3 align="left">📊 Data Analytics & Visualization</h3>
-
+### 📊 **Data Analytics & Visualization**
 - Excel • Power BI • Tableau  
-- Data Cleaning • Transformation  
-- Data Visualization • EDA  
+- Data Cleaning • Wrangling • Transformation  
+- Exploratory Data Analysis (EDA)  
 - Descriptive & Diagnostic Analytics  
 
-<h3 align="left">🧮 Programming & Libraries</h3>
-
-- Python (Pandas, NumPy, Matplotlib, Seaborn)  
+### 🧮 **Programming & Libraries**
+- Python: Pandas, NumPy, Matplotlib, Seaborn  
 - SQL • Jupyter Notebook  
-- Machine Learning Basics  
+- Basics of Machine Learning  
 
-<h3 align="left">🛠️ Other Tools</h3>
-
+### ⚙️ **Other Tools**
 - Git • GitHub  
 - VS Code  
 - Communication & Presentation Skills  
 
 ---
 
-## 📚 Featured Projects  
+## 🚀 **Featured Projects**
 
-### 🖼️ [Enhancement of Visualization of Greyscale Image](https://github.com/Telugu-Archana/Enhancement-of-visualization-of-greyscale-image)  
-- Improved grayscale image visibility using enhancement techniques  
-- Applied contrast stretching, histogram methods & image processing  
-- Showcased results with step-by-step implementation  
-
-### 🎉 [College Technical Event Club](https://github.com/Telugu-Archana/College-Technical-Event-Club)  
-- Built a digital system for managing technical club events  
-- Organized event data and improved workflow visibility  
-- Demonstrated development + real-world problem solving  
+### 🖼️ [Enhancement of Visualization of Greyscale Image](https://github.com/Telugu-Archana/Enhancement-of-visualization-of-greyscale-image)
+✔ Improved grayscale image visibility  
+✔ Applied contrast stretching & histogram techniques  
+✔ Fully documented step-by-step approach  
 
 ---
 
-## 📊 GitHub Stats  
+### 🎉 [College Technical Event Club](https://github.com/Telugu-Archana/College-Technical-Event-Club)
+✔ Developed system for managing technical club events  
+✔ Improved event data workflow & accessibility  
+✔ Demonstrated real-world problem solving  
+
+---
+
+## 📊 **GitHub Stats**
 
 <div align="center">
 
 <img 
-    src="https://github-readme-stats.vercel.app/api?username=Telugu-Archana&show_icons=true&theme=radical&hide_border=false&border_radius=15" 
+    src="https://github-readme-stats.vercel.app/api?username=Telugu-Archana&show_icons=true&theme=tokyonight&hide_border=false&border_radius=15" 
     height="180"
 />
 
 <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Telugu-Archana&layout=compact&theme=radical&hide_border=false&border_radius=15" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Telugu-Archana&theme=tokyonight&hide_border=false&border_radius=15" 
+    height="180"
+/>
+
+<img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Telugu-Archana&layout=compact&theme=tokyonight&hide_border=false&border_radius=15" 
     height="180"
 />
 
