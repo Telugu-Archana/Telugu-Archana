@@ -79,14 +79,14 @@
 ## 🤝 Connect With Me  
 
 <p align="center">
-  <a href="www.linkedin.com/in/telugu-archana-582a85291" target="_blank" style="margin-right: 20px;">
-    <img src="https://img.icons8.com/fluency/64/000000/linkedin.png" width="50"/>
+  <a href="https://www.linkedin.com/in/telugu-archana-582a85291" target="_blank">
+    <img src="https://img.icons8.com/fluency/70/linkedin.png" width="55"/>
   </a>
-  <a href="https://github.com/Telugu-Archana" target="_blank" style="margin-right: 20px;">
-    <img src="https://img.icons8.com/fluency/64/000000/github.png" width="50"/>
+  <a href="https://github.com/Telugu-Archana" target="_blank">
+    <img src="https://img.icons8.com/fluency/70/github.png" width="55"/>
   </a>
   <a href="mailto:archut119@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/fluency/64/000000/gmail-new.png" width="50"/>
+    <img src="https://img.icons8.com/fluency/70/gmail-new.png" width="55"/>
   </a>
 </p>
 
