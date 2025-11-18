@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Archana</h1> <h3 align="center">A Passionate Data Analytics Enthusiast & Developer</h3>
+<h1 align="center">Hi 👋, I'm Archana</h1>
 
 <!-- Banner -->
 <p align="center">
