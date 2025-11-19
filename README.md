@@ -38,7 +38,7 @@
 
 ## 🚀 **Featured Projects**
 
-### 🌱 [Plant Deficiency Detection Using Machine Learning](https://github.com/Telugu-Archana/plant-deficiency)  
+### 🌱 [Plant Deficiency Detection Using Machine Learning](https://github.com/Telugu-Archana/plant-deficiency-detection)  
 ✔ Built a plant leaf deficiency classifier using **KNN, Random Forest, and SVM**  
 ✔ Extracted features using image processing & preprocessing techniques  
 ✔ Compared model performance and selected the best-performing algorithm  
