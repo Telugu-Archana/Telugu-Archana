@@ -38,10 +38,10 @@
 
 ## 🚀 **Featured Projects**
 
-### 🖼️ [Enhancement of Visualization of Greyscale Image](https://github.com/Telugu-Archana/Enhancement-of-visualization-of-greyscale-image)
-✔ Improved grayscale image visibility  
-✔ Applied contrast stretching & histogram techniques  
-✔ Fully documented step-by-step approach  
+### 🌱 [Plant Deficiency Detection Using Machine Learning](https://github.com/Telugu-Archana/plant-deficiency)  
+✔ Built a plant leaf deficiency classifier using **KNN, Random Forest, and SVM**  
+✔ Extracted features using image processing & preprocessing techniques  
+✔ Compared model performance and selected the best-performing algorithm  
 
 ---
 
@@ -49,6 +49,13 @@
 ✔ Developed system for managing technical club events  
 ✔ Improved event data workflow & accessibility  
 ✔ Demonstrated real-world problem solving  
+
+---
+
+### 🖼️ [Enhancement of Visualization of Greyscale Image](https://github.com/Telugu-Archana/Enhancement-of-visualization-of-greyscale-image)
+✔ Improved grayscale image visibility  
+✔ Applied contrast stretching & histogram techniques  
+✔ Fully documented step-by-step approach  
 
 ---
 
